@@ -23,6 +23,7 @@
 
  
  	<script>
+ 	var aa = 0;
 		var markerList = [];
 		var markerCnt = 0;
 		var markerCenter;
