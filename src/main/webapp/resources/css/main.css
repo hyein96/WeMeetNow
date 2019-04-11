@@ -2,18 +2,24 @@ html,body,ul,li,ol,p,dd,dt{margin:0 !important;padding:0;border:0;}
 li,ul,ol{style:none;list-style:none;}
 table {margin:0 auto;text-align:center;border:none;border-collapse: collapse;border-spacing: 0;}
 /*지도*/
-#map{width:85%;height:700px;}
+#map{width:80%;height:837px;}
 
-/*참가자 추가*/
-.player_add{background:#8888;margin:0 !important;float:left;width:15%;height:780px;}
+/*참가자 추가함수*/
+.player_add{overflow:scroll;background:#CCEEFF;margin:0 !important;float:left;width:20%;height:885px;}
 .player_inner{margin:0 auto;text-align:center;}
 .form-control{width:50px !important;}
+#main_title{box-shadow:none !important;margin:0px !important;padding-top:25px;font-size:20px;height:80px;background-color:rgb(238, 238, 238) !important;}
+.title_str{vertical-align:middel;text-align:center;}
+.player{box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px 0px, rgba(0, 0, 0, 0.19) 0px 6px 20px 0px;margin:10px;background-color:#fff;}
 .col-md-1{width:80px !important;}
+.des_str{margin-bottom:0px !important;border-radius:30px;background-color:rgb(238, 238, 238) !important;margin: 10px;}
+.des_btn{background:#fff !important;}
+.des_btn .btn-default{margin: 10px;background-color:rgb(238, 238, 238) !important;}
 
 /*검색창*/
 .search {margin:0 auto;text-align:center;padding:20px 20px;}
 .search #address {padding-left:10px;width:700px;height:40px;border: solid 1px #555;font-size: 12px;box-sizing: content-box;}
 .search #submit {width:40px;height:40px;font-size: 12px;border: solid 1px #555;border-radius: 3px;cursor: pointer;box-sizing: content-box;}
 
-/*결과선택*/
-#result{width:85%; height:80px;}
+/*선택버튼*/
+#result{width:85%; height:48px;}
