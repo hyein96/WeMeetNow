@@ -13,7 +13,24 @@
 	var markerCnt = 0;
 	var markerCenter;
 	var centerChk = false;
-	var item
+	var j=0;
+	var item;
+	var arr = [];
+	
+	
+	/*지도에서 마커모두 삭제*/
+	 
+	function clearMap(){
+		for(var i = 0; i < markerList.length; i++){
+			markerList[i].setMap(null);
+		}
+		markerList.splice(0,markerList.length);
+		markerChk = false;
+	    if(markerCenter != null) markerCenter.setMap(null);
+	    if(centerCircle != null) centerCircle.setMap(null);
+	    centerChk = false;
+	    markerCnt = 0;
+	    }
 	
 		/*센터 구하기*/
 		 
@@ -102,10 +119,10 @@
 	            f.submit(); // 전송 
 	            });
 			}
+
 		
-		//////////////////////////////////////////        
 		 
-		function getCenterNopin(Cx, Cy){
+/**		function getCenterNopin(Cx, Cy){
 			if(centerChk == true){
 				centerCircle.setMap(null);
 				centerChk = false;
@@ -172,8 +189,9 @@
 	            f.submit(); // 전송
 	            });
 		    }
+	**/
 	
 	</script>
 
-</body>
-</html>
+	</body>
+	</html>
