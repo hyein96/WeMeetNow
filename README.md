@@ -9,13 +9,8 @@
 ✔️ 범위 내 장소 선택 시, 선택 된 장소까지의 대중교통 소요시간 제공<br>
 ✔️ 위치명을 키워드로 하여 맛집,카페 등 장소 검색 가능 <br><br>
 <h2> 📷 screenshots </h2>
-<img width="500" height="370" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92425461-4dd55f00-f1c2-11ea-97cc-1e1e7e7707e3.png">
-<img width="500" height="370" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92425515-73626880-f1c2-11ea-91a0-ad1ba0e6760e.png">
-<img width="500" height="370" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92425700-fdaacc80-f1c2-11ea-8f07-21c9e47272d6.png">
-<img width="500" height="370" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92426093-f637f300-f1c3-11ea-9639-abd38e7dba5d.png">
-<h3> 반응형 </h3>
 <div>
-<img width="200" height="350" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92426206-4ca53180-f1c4-11ea-9a7a-395aea5bbda0.PNG">
-<img width="200" height="350" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92426240-63e41f00-f1c4-11ea-8118-3c61e610c280.PNG">
-<img width="200" height="350" alt="pleasetoilet" src="https://user-images.githubusercontent.com/32568829/92426267-79594900-f1c4-11ea-9390-a45770a1672e.PNG">
+<img width="644" alt="1" src="https://user-images.githubusercontent.com/42136782/94268355-013aa380-ff78-11ea-8525-d0d3647972ca.png">
+<img width="644" alt="2" src="https://user-images.githubusercontent.com/42136782/94268358-039cfd80-ff78-11ea-823a-a37443932723.png">
+<img width="640" alt="3" src="https://user-images.githubusercontent.com/42136782/94268367-0566c100-ff78-11ea-96ad-915a8e423a27.png">
 </div>
